@@ -3,7 +3,6 @@
 
 ## Contact Information
 - Email: sumbul.jabbar90@gmail.com
-- Phone: 123-456-7890
 
 ## Education
 - **M.S in Remote Sensing & GIS**, Institue of Space Technology
