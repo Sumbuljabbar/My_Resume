@@ -6,12 +6,15 @@
 - Phone: 123-456-7890
 
 ## Education
+- **M.S in Remote Sensing & GIS**, Institue of Space Technology
+- Graduation Year: 2019
 - **B.E in Telecommunication Engineering**, Mehran University of Engineering and Technology
-- Graduation Year: 2023
+- Graduation Year: 2015
 
 ## Skills
 - JavaScript, R, SQL
 - HTML, CSS, Python
+- C, C#, Matlab
 
 ## Experience
 
